@@ -1,0 +1,14 @@
+VISION Dataset: This dataset consists of more than 35,000 images and videos that have been captured from 11 different major brands’ portfolio of 35 different portable devices. It is targeted for tasks of source identification in images and videos for forensic purposes. 
+Dataset 1: https://lesc.dinfo.unifi.it/VISION/
+
+
+HDR Dataset: This particular dataset assists in assessing the performance of various HDR imaging algorithms and includes over 5,000 images comprising both Standard Dynamic Range (SDR) and High Dynamic Range (HDR) images. Captured through 23 mobile devices. 
+Dataset 2: https://drive.google.com/drive/folders/1ygjPeVAX5-v-xlzODj6FgXzoQhn_BCit
+
+
+BOREAS Dataset: A seasonal collection of self-driving vehicles dataset containing Velodyne Alpha-Prime, a FLIR Blackfly S, commercial Navtech CIR304-H radar, and Applanix POS LV GNSS-INS. It contains 3D cuboids and a 350km distance of traveling information, making the data useful for object perception and recognition. 
+Dataset 3: https://arxiv.org/abs/2203.10168
+
+
+Bosch Small Traffic Lights Dataset: The dataset contains 8,334 frames of a video sequence for evaluation divided into states with bounding boxes for active light for images which in total was 5,000, helping to highlight the second type of traffic lights. 
+Dataset 4: https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset
