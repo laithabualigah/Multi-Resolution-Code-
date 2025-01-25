@@ -1,0 +1,10 @@
+@article{abualigah2025multi_resolution,
+  title={Multi-Resolution Deep Learning Framework for Efficient Real-Time Image and Video Processing},
+  author={Abualigah, Laith and Alomari, Saleh Ali and Almomani, Mohammad H. and Abu Zitar, Raed and Saleem, Kashif and Migdady, Hazem and Snasel, Vaclav and Smerat, Aseel and Zhang, Peiying},
+  journal={The Visual Computer},
+  publisher={Springer},
+  year={2025}
+}
+
+
+Abualigah et al. (2025). Multi-Resolution Deep Learning Framework for Efficient Real-Time Image and Video Processing. The Visual Computer. Springer
